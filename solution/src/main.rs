@@ -1,6 +1,6 @@
-use two_sum::two_sum;
+use longest_substring_without_repeating_characters::length_of_longest_substring;
 
 fn main() {
-    let result = two_sum(vec![2, 7, 11, 15], 9);
+    let result = length_of_longest_substring(String::from("abcabcbb"));
     println!("{:?}", result)
 }

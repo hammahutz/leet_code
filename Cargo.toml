@@ -1,2 +1,2 @@
 [workspace]
-members = [ "add_two_numbers", "longest_substring_without_repeating_characters","solution", "two_sum"]
+members = [ "add_two_numbers", "longest_substring_without_repeating_characters", "median-of-two-sorted-arrays", "mege_two_sorted_lists","solution", "two_sum"]

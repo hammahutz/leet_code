@@ -4,4 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-two_sum = { path = "../two_sum" }
+# two_sum = { path = "../two_sum" }
+longest_substring_without_repeating_characters = { path = "../longest_substring_without_repeating_characters" }
